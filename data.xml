@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"  ?>
+
+
+<personData>
+
+    <user id="1">
+        <firstName>Muhammad </firstName>
+        <lastName>Reyan</lastName>
+        <email>reyanryu@gmail.com</email>
+    </user>
+    <user id="2">
+        <firstName>Syed </firstName>
+        <lastName>Areeb</lastName>
+        <email>reyankabeer4@gmail.com</email>
+    </user>
+    <user id="3">
+        <firstName>Syed </firstName>
+        <lastName>Reyan</lastName>
+        <email>sr.yank2005@gmail.com</email>
+    </user>
+</personData>
